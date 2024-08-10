@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodieDeliveriesWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8812a394a8b14cdc2c538ac77c393f587926a653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5185f30f1e5f344aaed9e21b8fc8891473b12bc3")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodieDeliveriesWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodieDeliveriesWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

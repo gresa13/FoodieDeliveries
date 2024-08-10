@@ -4535,11 +4535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
       "projectName": "FoodieDeliveriesWeb",
-      "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
+      "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
       "packagesPath": "C:\\Users\\Gresa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\obj\\",
+      "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gresa\\AppData\\Roaming\\NuGet\\NuGet.Config",

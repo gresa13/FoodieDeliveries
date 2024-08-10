@@ -1,7 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveriesWeb\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\Data\\Migrations\\20240810120430_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FoodieDeliveriesWeb\\Data\\Migrations\\20240810120430_Inital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B77F1-9312-4DB4-B399-BD92C12DA41A}|FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj|c:\\users\\gresa\\source\\repos\\foodiedeliveries\\foodiedeliveries\\foodiedeliveriesweb\\foodiedeliveriesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2B77F1-9312-4DB4-B399-BD92C12DA41A}|FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj|solutionrelative:foodiedeliveriesweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2B77F1-9312-4DB4-B399-BD92C12DA41A}|FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj|c:\\users\\gresa\\source\\repos\\foodiedeliveries\\foodiedeliveries\\foodiedeliveriesweb\\foodiedeliveriesweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E2B77F1-9312-4DB4-B399-BD92C12DA41A}|FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj|solutionrelative:foodiedeliveriesweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +39,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240810120430_Inital.cs",
+              "DocumentMoniker": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\Data\\Migrations\\20240810120430_Inital.cs",
+              "RelativeDocumentMoniker": "FoodieDeliveriesWeb\\Data\\Migrations\\20240810120430_Inital.cs",
+              "ToolTip": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\Data\\Migrations\\20240810120430_Inital.cs",
+              "RelativeToolTip": "FoodieDeliveriesWeb\\Data\\Migrations\\20240810120430_Inital.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T12:04:30.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\Program.cs",
+              "RelativeDocumentMoniker": "FoodieDeliveriesWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\Program.cs",
+              "RelativeToolTip": "FoodieDeliveriesWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:59:06.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "FoodieDeliveriesWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\appsettings.json",
+              "RelativeToolTip": "FoodieDeliveriesWeb\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-10T11:54:13.804Z",
+              "EditorCaption": ""
             }
           ]
         }

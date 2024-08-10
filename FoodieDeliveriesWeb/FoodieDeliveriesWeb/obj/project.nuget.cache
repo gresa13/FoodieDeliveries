@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oPk1kESwZljDddZHOA+vQ8jyXpFi4xSNmUwklMaWF9tgD+eP7T1WPAlCw9QQHoLzTs91KDmR53GSUqtjPVXXkg==",
+  "dgSpecHash": "Kg3Rt/n8N0y2lpk+a6pbpG48lf8LuV8GAyAE+I+IRMKo1q2cJpphvHCyy/YKl4Zlk/+4vayqbObg7er4vIjLvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
+  "projectFilePath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gresa\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Gresa\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
