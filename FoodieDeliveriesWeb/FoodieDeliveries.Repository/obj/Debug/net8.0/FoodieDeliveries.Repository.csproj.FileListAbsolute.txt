@@ -1,0 +1,16 @@
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\bin\Debug\net8.0\FoodieDeliveries.Repository.deps.json
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\bin\Debug\net8.0\FoodieDeliveries.Repository.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\bin\Debug\net8.0\FoodieDeliveries.Repository.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\bin\Debug\net8.0\FoodieDeliveries.Domain.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\bin\Debug\net8.0\FoodieDeliveries.Domain.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.csproj.AssemblyReference.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.AssemblyInfoInputs.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.AssemblyInfo.cs
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.sourcelink.json
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDe.2F5D93BC.Up2Date
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\refint\FoodieDeliveries.Repository.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\FoodieDeliveries.Repository.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Repository\obj\Debug\net8.0\ref\FoodieDeliveries.Repository.dll

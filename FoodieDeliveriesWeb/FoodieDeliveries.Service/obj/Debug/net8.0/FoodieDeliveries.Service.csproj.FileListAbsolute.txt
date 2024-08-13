@@ -1,0 +1,13 @@
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\bin\Debug\net8.0\FoodieDeliveries.Service.deps.json
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\bin\Debug\net8.0\FoodieDeliveries.Service.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\bin\Debug\net8.0\FoodieDeliveries.Service.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.csproj.AssemblyReference.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.AssemblyInfoInputs.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.AssemblyInfo.cs
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.csproj.CoreCompileInputs.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.sourcelink.json
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\refint\FoodieDeliveries.Service.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\FoodieDeliveries.Service.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveriesWeb\FoodieDeliveries.Service\obj\Debug\net8.0\ref\FoodieDeliveries.Service.dll

@@ -1,0 +1,13 @@
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\bin\Debug\net8.0\FoodieDeliveries.Domain.deps.json
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\bin\Debug\net8.0\FoodieDeliveries.Domain.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\bin\Debug\net8.0\FoodieDeliveries.Domain.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.csproj.AssemblyReference.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.AssemblyInfoInputs.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.AssemblyInfo.cs
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.sourcelink.json
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\refint\FoodieDeliveries.Domain.dll
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\FoodieDeliveries.Domain.pdb
+C:\Users\Gresa\source\repos\FoodieDeliveries\FoodieDeliveries\FoodieDeliveries.Domain\obj\Debug\net8.0\ref\FoodieDeliveries.Domain.dll

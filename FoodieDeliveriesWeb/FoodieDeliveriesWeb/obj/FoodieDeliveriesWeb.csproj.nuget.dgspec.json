@@ -4,14 +4,14 @@
     "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj": {
+    "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
-        "projectName": "FoodieDeliveriesWeb",
-        "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj",
+        "projectName": "FoodieDeliveries.Domain",
+        "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj",
         "packagesPath": "C:\\Users\\Gresa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\obj\\",
+        "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gresa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,21 +45,297 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Repository\\FoodieDeliveries.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Repository\\FoodieDeliveries.Repository.csproj",
+        "projectName": "FoodieDeliveries.Repository",
+        "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Repository\\FoodieDeliveries.Repository.csproj",
+        "packagesPath": "C:\\Users\\Gresa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gresa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Service\\FoodieDeliveries.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Service\\FoodieDeliveries.Service.csproj",
+        "projectName": "FoodieDeliveries.Service",
+        "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Service\\FoodieDeliveries.Service.csproj",
+        "packagesPath": "C:\\Users\\Gresa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gresa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
+        "projectName": "FoodieDeliveriesWeb",
+        "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb.csproj",
+        "packagesPath": "C:\\Users\\Gresa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveriesWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Gresa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj": {
+                "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveries.Domain\\FoodieDeliveries.Domain.csproj"
+              },
+              "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Repository\\FoodieDeliveries.Repository.csproj": {
+                "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Repository\\FoodieDeliveries.Repository.csproj"
+              },
+              "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Service\\FoodieDeliveries.Service.csproj": {
+                "projectPath": "C:\\Users\\Gresa\\source\\repos\\FoodieDeliveries\\FoodieDeliveries\\FoodieDeliveriesWeb\\FoodieDeliveries.Service\\FoodieDeliveries.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[8.0.2, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
